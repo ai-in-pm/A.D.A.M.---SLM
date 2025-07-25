@@ -261,7 +261,6 @@ config = AdamSLMConfig.from_json("model_config.json")
 - [Model Architecture](docs/architecture.md)
 - [Training Guide](docs/training.md)
 - [Inference Guide](docs/inference.md)
-- [API Reference](docs/api.md)
 
 ## 🤝 Contributing
 
