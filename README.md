@@ -60,9 +60,6 @@ pip install adam-slm
 ### 💬 **Chat with A.D.A.M. (Easiest Way - No API Keys!)**
 
 ```bash
-# Navigate to project directory
-cd D:/science_projects/adam_slm
-
 # Start chatting immediately - completely offline!
 python main.py
 ```
