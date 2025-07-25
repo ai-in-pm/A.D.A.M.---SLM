@@ -270,7 +270,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) - see the [LICENSE](LICENSE) file for details.
 
-**AGPL-3.0 License** - This is a strong copyleft license that requires:
+**AGPL-3.0 License**
 - 🔒 **Source code disclosure**: Any modifications must be shared under the same license
 - 🌐 **Network copyleft**: Even web services using this code must provide source code to users
 - ⚖️ **Commercial use allowed**: But derivative works must also be AGPL-3.0 licensed
