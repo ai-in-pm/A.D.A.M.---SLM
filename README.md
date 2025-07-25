@@ -11,6 +11,8 @@
 - ❌ Any external LLM service subscriptions
 - ❌ Internet connection for inference
 
+https://github.com/user-attachments/assets/27f967a8-2836-4f0f-adcc-24579283c06c
+
 **✅ Everything runs locally with your own trained models!**
 
 Disclaimer: The development of this GitHub Repository was inspired by "LLMs from Scratch" by Sebastian Raschka. The codebase was forked from the original repository and has been significantly modified and expanded upon. The original repository can be found at https://github.com/rasbt/LLMs-from-scratch. The author of this repository is not affiliated with Sebastian Raschka or the original repository. The author of this repository is Darrell Mesa, and can be contacted at darrell.mesa@pm-ss.org.
