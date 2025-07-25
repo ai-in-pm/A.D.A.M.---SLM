@@ -1,6 +1,6 @@
 # A.D.A.M. - Applied Decision Architecture Matrix - Small Language Model
 
-🚀 A sophisticated small language model implementation with state-of-the-art features, built from the ground up with modern transformer architectures and training techniques.
+🚀 A small language model implementation with state-of-the-art features, built from the ground up with modern transformer architectures and training techniques.
 
 ## 🔓 **No API Keys Required!**
 
