@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice Johnson",
+    "age": 28,
+    "city": "New York",
+    "occupation": "Engineer"
+  },
+  {
+    "name": "Bob Smith",
+    "age": 35,
+    "city": "San Francisco",
+    "occupation": "Designer"
+  },
+  {
+    "name": "Carol Davis",
+    "age": 42,
+    "city": "Chicago",
+    "occupation": "Manager"
+  },
+  {
+    "name": "David Wilson",
+    "age": 31,
+    "city": "Boston",
+    "occupation": "Developer"
+  },
+  {
+    "name": "Eve Brown",
+    "age": 29,
+    "city": "Seattle",
+    "occupation": "Analyst"
+  }
+]

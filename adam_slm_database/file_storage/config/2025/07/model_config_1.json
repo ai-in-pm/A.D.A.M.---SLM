@@ -1,0 +1,24 @@
+{
+  "model_name": "adam-slm-demo",
+  "architecture": {
+    "d_model": 768,
+    "n_layers": 12,
+    "n_heads": 12,
+    "n_kv_heads": 6,
+    "d_ff": 3072,
+    "vocab_size": 50257,
+    "max_seq_len": 2048
+  },
+  "training": {
+    "learning_rate": 0.0005,
+    "batch_size": 32,
+    "warmup_steps": 1000,
+    "max_steps": 10000
+  },
+  "features": {
+    "use_rope": true,
+    "use_swiglu": true,
+    "use_rms_norm": true,
+    "use_gqa": true
+  }
+}

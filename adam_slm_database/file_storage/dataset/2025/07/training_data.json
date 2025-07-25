@@ -1,0 +1,32 @@
+[
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "label": "positive",
+    "category": "example"
+  },
+  {
+    "text": "Machine learning is transforming our world",
+    "label": "positive",
+    "category": "technology"
+  },
+  {
+    "text": "Natural language processing enables AI understanding",
+    "label": "positive",
+    "category": "ai"
+  },
+  {
+    "text": "Deep learning models require large datasets",
+    "label": "neutral",
+    "category": "education"
+  },
+  {
+    "text": "Training neural networks can be computationally expensive",
+    "label": "neutral",
+    "category": "technical"
+  },
+  {
+    "text": "ADAM SLM represents the future of language models",
+    "label": "positive",
+    "category": "product"
+  }
+]

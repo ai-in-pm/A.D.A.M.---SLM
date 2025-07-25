@@ -1,0 +1,7 @@
+text,label,category
+"The quick brown fox jumps over the lazy dog",positive,example
+"Machine learning is transforming our world",positive,technology
+"Natural language processing enables AI understanding",positive,ai
+"Deep learning models require large datasets",neutral,education
+"Training neural networks can be computationally expensive",neutral,technical
+"ADAM SLM represents the future of language models",positive,product

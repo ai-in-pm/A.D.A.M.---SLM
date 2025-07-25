@@ -1,0 +1,12 @@
+{
+  "backup_time": "2025-07-25T08:00:31.063092",
+  "original_tokenizer": "GPT-2",
+  "encoding_name": "gpt2",
+  "vocab_size": 50257,
+  "special_tokens": {
+    "pad_token_id": 50256,
+    "eos_token_id": 50256,
+    "bos_token_id": 50256,
+    "unk_token_id": 50256
+  }
+}

@@ -1,0 +1,12 @@
+This is a test file for the A.D.A.M. SLM database import script.
+
+The file contains sample text that will be imported and processed by the sophisticated database system.
+
+Features being tested:
+- File import via command line script
+- Automatic file type detection
+- Content analysis and metadata extraction
+- Storage organization
+- Processing job tracking
+
+This demonstrates the complete file management pipeline from command line to database storage.

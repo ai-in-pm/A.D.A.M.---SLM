@@ -1,0 +1,9 @@
+This is a sample text file for ADAM SLM database.
+It contains multiple lines of text that can be analyzed and processed.
+The file manager will extract content and metadata automatically.
+
+Key features:
+- Automatic content extraction
+- Metadata analysis
+- Full-text search capabilities
+- Version control and lineage tracking

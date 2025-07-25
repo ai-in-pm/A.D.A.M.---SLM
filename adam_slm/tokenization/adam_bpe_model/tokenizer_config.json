@@ -1,0 +1,28 @@
+{
+  "vocab_size": 397,
+  "special_tokens": {
+    "pad_token": "<pad>",
+    "eos_token": "<eos>",
+    "bos_token": "<bos>",
+    "unk_token": "<unk>"
+  },
+  "domain_weights": {
+    "ai_ml_core": 3.0,
+    "ai_ml_advanced": 2.5,
+    "mathematical": 2.0,
+    "technical_code": 1.8,
+    "academic": 1.5,
+    "general": 1.0
+  },
+  "training_stats": {
+    "total_merges": 357,
+    "vocab_composition": {
+      "base_language": 35000,
+      "ai_ml_specialized": 8000,
+      "mathematical": 2000,
+      "technical_code": 1000,
+      "citation_academic": 500,
+      "special_tokens": 257
+    }
+  }
+}

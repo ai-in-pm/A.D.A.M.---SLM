@@ -1,0 +1,26 @@
+# ADAM SLM Experiment Configuration
+experiment:
+  name: "hyperparameter_search"
+  description: "Testing different learning rates and batch sizes"
+  
+model:
+  type: "adam-slm-base"
+  checkpoint: null
+  
+training:
+  dataset: "shakespeare_corpus"
+  learning_rates: [1e-4, 5e-4, 1e-3]
+  batch_sizes: [16, 32, 64]
+  max_steps: 5000
+  eval_steps: 500
+  
+optimization:
+  optimizer: "adamw"
+  weight_decay: 0.1
+  gradient_clipping: 1.0
+  warmup_ratio: 0.1
+  
+logging:
+  wandb_project: "adam-slm-experiments"
+  log_interval: 100
+  save_interval: 1000
